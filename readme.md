@@ -1,6 +1,6 @@
 ## Authority Wit Article Template
 
-This is the starting template for creating articles on authoritywit.com.
+This is the starting template for creating articles on @authoritywit            
 
 ### Quick Start - 1
 - [Guide to Git and GitHub for Writers](https://www.scrygroup.com/tutorial/2020-01-07/guide-to-git-github-for-writers/)
